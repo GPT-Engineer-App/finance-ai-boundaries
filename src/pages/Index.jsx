@@ -22,7 +22,7 @@ const Index = () => {
             </Link>
           </HStack>
         </Flex>
-        <VStack spacing={4} textAlign="center">
+        <VStack spacing={4} textAlign="center" flex="1" justifyContent="center">
           <Heading as="h2" size="2xl">
             Pushing the boundaries of Finance and AI.
           </Heading>
